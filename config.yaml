@@ -1,0 +1,27 @@
+---
+ testnet: true
+ TEST_API_KEY : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+ TEST_API_SECRET : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+ testnet_URL: "https://testnet.binance.vision/api"
+ LIVE_API_KEY : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+ LIVE_API_SECRET : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+ mainnet_URL: "https://testnet.binance.vision/api"
+ QUANTITY : 100
+ api_id : 1010101
+ api_hash : 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+ bot_token : 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+ channelID : -10101010101
+ pairing : "USDT"
+ wordsForConfirmation: 
+  - buy the dip 
+  - buy
+  - buying
+  - will go up
+  - pumping
+  - still bullish
+  - 🚀
+  - leg up
+ coins :  # Avoid the same coin with which you want to pair with
+  - $XRP
+  - $BTC
+  - $XRP

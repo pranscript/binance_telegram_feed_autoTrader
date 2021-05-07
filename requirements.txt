@@ -1,0 +1,5 @@
+aiohttp==3.7.3
+python-binance==1.0.3
+Telethon==1.21.1
+nest-asyncio==1.4.3
+PyYAML==5.3.1
